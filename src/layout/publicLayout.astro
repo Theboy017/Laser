@@ -1,5 +1,7 @@
 ---
-
+import "../styles/global.css";
+import Footer from "../components/footer.astro";
+import Header from "../components/header.astro";
 ---
 
 <!doctype html>
@@ -41,10 +43,12 @@
     <meta name="author" content="New York Laser & Skin Care" />
   </head>
   <body>
+    <Header />
     <main class="">
       <slot />
     </main>
   </body>
+  <Footer />
 
   <style>
     html,
