@@ -17,19 +17,19 @@
 }
 @font-face {
   font-family:"ivy";
-  src: url("/fonts/Ivy-200.woff2") format("woff2");
+  src: url("/Laser/fonts/Ivy-200.woff2") format("woff2");
   font-weight: 400;
   display: swap;
 }
 @font-face {
   font-family:"ivy";
-  src: url("/fonts/Ivy-600.woff2") format("woff2");
+  src: url("/Laser/fonts/Ivy-600.woff2") format("woff2");
   font-weight: 600;
   display: swap;
 }
 @font-face {
   font-family:"helvet";
-  src: url("/fonts/Helveticar.woff2") format("woff2");
+  src: url("/Laser/fonts/Helveticar.woff2") format("woff2");
   font-weight: 400;
   display: swap;
 }
