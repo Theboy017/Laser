@@ -6,5 +6,5 @@ export default defineConfig({
       plugins: [tailwindcss()],
     },
       output: 'static',
-      site: 'https://Laser-Theboy017.github.io',
+      site: 'Laser-Theboy017.github.io',
   });
