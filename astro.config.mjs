@@ -5,4 +5,6 @@ export default defineConfig({
     vite: {
       plugins: [tailwindcss()],
     },
+      site: 'https://Theboy017.github.io',
+      base: 'Laser'
   });
